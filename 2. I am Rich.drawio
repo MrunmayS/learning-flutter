@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T10:39:17.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="0gjGBy9NN6h1L-7s_3TH" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T10:49:58.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="n3bnybndNUQhq87KzJgv" version="14.1.1" type="github">
   <diagram id="3MKQyLr7hOw10va2EOXg" name="Page-1">
     <mxGraphModel dx="729" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,6 +85,60 @@
         </mxCell>
         <mxCell id="bey7hjCSY9WOKvqfFOsq-24" value="// is for comments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499.57142857142867" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-25" value="Scaffold Class" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-27" target="bey7hjCSY9WOKvqfFOsq-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-27" value="It can have floating action button, AppBar, drawer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-28" target="bey7hjCSY9WOKvqfFOsq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-28" target="bey7hjCSY9WOKvqfFOsq-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-28" value="AppBar" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-37" target="bey7hjCSY9WOKvqfFOsq-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-37" value="To change backgroud color&lt;br&gt;BackgroundColor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="710" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-40" value="Colors.red" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-42" value="Title for addling title" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-44" value="Image Class" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-51" value="Asset image" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-53" value="Network image" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
