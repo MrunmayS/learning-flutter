@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T10:49:58.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="n3bnybndNUQhq87KzJgv" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T11:41:58.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="POcnygAswsmYpqXleTGD" version="14.1.1" type="github">
   <diagram id="3MKQyLr7hOw10va2EOXg" name="Page-1">
-    <mxGraphModel dx="729" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="727" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,11 +134,43 @@
         <mxCell id="bey7hjCSY9WOKvqfFOsq-44" value="Image Class" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="640" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80.14285714285722" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bey7hjCSY9WOKvqfFOsq-51" value="Asset image" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bey7hjCSY9WOKvqfFOsq-53" value="Network image" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-56" target="bey7hjCSY9WOKvqfFOsq-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-56" value="pubspec.yaml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-57" target="bey7hjCSY9WOKvqfFOsq-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-57" target="bey7hjCSY9WOKvqfFOsq-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-57" value="To add an asset&amp;nbsp;&lt;br&gt;uncomment the asset line in yaml" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bey7hjCSY9WOKvqfFOsq-59" target="bey7hjCSY9WOKvqfFOsq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-59" value="- images/diamond.jpg" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-61" value="To add an image add the image name directly" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bey7hjCSY9WOKvqfFOsq-63" value="Do packages get after adding name" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
